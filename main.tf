@@ -1,4 +1,4 @@
-/// Testing GitHub update with push and pull
+/// Testing GitHub update with push and pull just update
 
 terraform {
 
